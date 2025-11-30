@@ -1,7 +1,7 @@
 main: com.jamesdpeters.minecraft.chests.ChestsPlusPlus
 name: ChestsPlusPlus
 version: ${version}
-api-version: 1.21.4
+api-version: 1.21.10
 description: Minecraft Spigot mod that enhances chests and hoppers, with ChestLinks
   and Hopper filters!
 author: jameslfc19
