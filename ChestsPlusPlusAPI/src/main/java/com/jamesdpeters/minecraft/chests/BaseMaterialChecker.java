@@ -72,7 +72,6 @@ public class BaseMaterialChecker extends MaterialChecker {
         version_Items.add(Material.SOUL_CAMPFIRE);
         version_Items.add(Material.SOUL_LANTERN);
         version_Items.add(Material.SOUL_TORCH);
-        version_Items.add(Material.CHAIN);
 
         version_Ignored_Items = new ArrayList<>();
         version_Ignored_Items.addAll(Tag.BEDS.getValues());
